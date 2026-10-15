@@ -4,7 +4,7 @@
 
 Divide and conquer 
 1. quick search on array
-2. 2.merge sort on array 
+2. merge sort on array 
 
 ## Aim
 
