@@ -2,7 +2,9 @@
 
 ## Title
 
-**Quick Sort Using Divide and Conquer**
+Divide and conquer 
+1. quick search on array
+2. 2.merge sort on array 
 
 ## Aim
 
